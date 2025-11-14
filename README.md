@@ -21,7 +21,7 @@ scripts/
 1. Clone repo:
    ```bash
    git clone https://github.com/alaa-elgazwy/linux-admin-automation.git
-   cd linux-admin-automation/scripts
+   cd linux-admin-automathion/scripts
 2. make script executable
    chmod +x *.sh
 
